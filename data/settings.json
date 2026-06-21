@@ -1,0 +1,95 @@
+{
+  "hero": {
+    "image": "",
+    "eyebrow": {
+      "en": "WOODIST — Girne, North Cyprus",
+      "ru": "WOODIST — Кирения, Северный Кипр",
+      "tr": "WOODIST — Girne, Kuzey Kıbrıs"
+    },
+    "slogan": {
+      "en": "Quality, Aesthetics, Sustainability — Timeless Wood Design.",
+      "ru": "Качество, эстетика, устойчивость — вне времени, в дереве.",
+      "tr": "Kalite, Estetik, Sürdürülebilirlik — Zamansız Ahşap Tasarım."
+    }
+  },
+  "about": {
+    "en": "Woodist is a furniture studio in Girne, North Cyprus. We design and build pieces from solid, responsibly sourced timber — for homes, offices, and hospitality spaces that deserve to last.",
+    "ru": "Woodist — мебельная студия в Кирении, Северный Кипр. Мы проектируем и создаём предметы из массива дерева, заготовленного из ответственных источников, — для домов, офисов и проектов гостеприимства, которым полагается долговечность.",
+    "tr": "Woodist, Girne'de bir mobilya atölyesidir. Sorumlu kaynaklardan alınan masif ahşaptan, kalıcı olmayı hak eden evler, ofisler ve ağırlama mekânları için tasarlar ve üretiriz."
+  },
+  "contact": {
+    "phone": "+90 533 851 3031",
+    "whatsapp": "+90 533 881 2131",
+    "telegram": "+90 533 881 2131",
+    "address": {
+      "en": "Çanakkale Cad. No: 1/2, Çatalköy, Girne",
+      "ru": "Çanakkale Cad. No: 1/2, Чаталкёй, Кирения",
+      "tr": "Çanakkale Cad. No: 1/2, Çatalköy, Girne"
+    },
+    "email": "",
+    "instagram": "",
+    "mapEmbed": "https://www.google.com/maps?q=Catalkoy+Girne+North+Cyprus&output=embed"
+  },
+  "craftsmanship": {
+    "title": {
+      "en": "Our Craftsmanship",
+      "ru": "Наше ремесло",
+      "tr": "Zanaatımız"
+    },
+    "intro": {
+      "en": "Every Woodist piece moves through four hands and four stages. Nothing is rushed.",
+      "ru": "Каждое изделие Woodist проходит четыре пары рук и четыре этапа. Ничто не делается в спешке.",
+      "tr": "Her Woodist parçası dört çift elden ve dört aşamadan geçer. Hiçbir şey aceleye getirilmez."
+    },
+    "steps": [
+      {
+        "title": {
+          "en": "Design",
+          "ru": "Проектирование",
+          "tr": "Tasarım"
+        },
+        "description": {
+          "en": "We sketch, model and refine — sometimes alongside the client, sometimes alone in the workshop. Lines have to earn their place.",
+          "ru": "Эскизируем, моделируем и уточняем — иногда с клиентом, иногда в тишине мастерской. Каждая линия должна быть оправданной.",
+          "tr": "Çizer, modeller ve geliştiririz — bazen müşteriyle, bazen atölyenin sessizliğinde. Her çizgi yerini hak etmelidir."
+        }
+      },
+      {
+        "title": {
+          "en": "Material",
+          "ru": "Материал",
+          "tr": "Malzeme"
+        },
+        "description": {
+          "en": "We choose timber by hand: solid oak, walnut, ash and pine, sourced from suppliers who replant what they cut.",
+          "ru": "Дерево выбираем вручную: дуб, орех, ясень, сосна — от поставщиков, которые сажают столько же, сколько срубают.",
+          "tr": "Keresteyi elle seçeriz: meşe, ceviz, dişbudak ve çam — kestiklerini yeniden diken tedarikçilerden alırız."
+        }
+      },
+      {
+        "title": {
+          "en": "Build",
+          "ru": "Сборка",
+          "tr": "Üretim"
+        },
+        "description": {
+          "en": "Joinery first, fasteners second. Mortise and tenon, dovetail, lap — joints that will outlive the glue holding them.",
+          "ru": "Сначала соединения, потом крепёж. Шип-паз, ласточкин хвост — узлы, которые переживут клей.",
+          "tr": "Önce geçmeler, sonra bağlantı elemanları. Zıvana, kırlangıç kuyruğu — onları tutan tutkalı bile aşan birleşimler."
+        }
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "ru": "Отделка",
+          "tr": "Yüzey"
+        },
+        "description": {
+          "en": "Hand-sanded to 400 grit, then oiled or waxed. No spray gun shortcuts — the grain stays visible because it should be.",
+          "ru": "Шлифовка вручную до 400 grit, затем масло или воск. Никаких распылителей — текстура остаётся видимой, потому что так и должно быть.",
+          "tr": "Elle 400 grit'e zımparalanır, ardından yağlanır ya da mumlanır. Sprey kısayolu yok — desen görünür kalır, çünkü öyle olmalıdır."
+        }
+      }
+    ]
+  }
+}

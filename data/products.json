@@ -1,0 +1,98 @@
+[
+  {
+    "id": "modular-corner-mira",
+    "category": "couches",
+    "name": {
+      "en": "Mira Modular Corner",
+      "ru": "Угловой модульный диван Mira",
+      "tr": "Mira Modüler Köşe"
+    },
+    "description": {
+      "en": "A four-piece modular sofa in soft warm grey. Reconfigure for any room — the modules pull apart and rejoin without tools.",
+      "ru": "Модульный диван из четырёх частей в мягко-сером тоне. Перестановка под любую комнату — модули соединяются и разъединяются без инструментов.",
+      "tr": "Sıcak gri tonunda dört parçalı modüler koltuk. Modüller alet kullanmadan ayrılır ve birleşir — her odaya göre yeniden yapılandırın."
+    },
+    "materials": {
+      "en": "Kiln-dried pine frame, high-resilience foam, woven polyester upholstery",
+      "ru": "Каркас из сушёной сосны, формостойкий пенополиуретан, обивка из плетёного полиэстера",
+      "tr": "Fırınlanmış çam iskelet, yüksek esnemeli sünger, dokuma polyester kumaş"
+    },
+    "dimensions": "240 × 240 × 75 cm",
+    "price": "On request",
+    "images": [],
+    "featured": true,
+    "order": 1
+  },
+  {
+    "id": "modular-corner-lina",
+    "category": "couches",
+    "name": {
+      "en": "Lina L-Shape Sofa",
+      "ru": "Угловой диван Lina",
+      "tr": "Lina L Koltuk"
+    },
+    "description": {
+      "en": "Open-armed L-shape with deep cushions and a generous chaise side. Built for long Sunday afternoons.",
+      "ru": "L-образный диван с открытыми подлокотниками, глубокими подушками и просторным шезлонгом. Создан для долгих воскресных дней.",
+      "tr": "Açık kolçaklı, derin minderli ve geniş şezlonglu L formu. Uzun pazar öğleden sonraları için tasarlandı."
+    },
+    "materials": {
+      "en": "Solid pine frame, density-graded foam seat, removable washable covers",
+      "ru": "Каркас из массива сосны, многослойный поролон, съёмные стираемые чехлы",
+      "tr": "Masif çam iskelet, yoğunluk dereceli sünger, çıkarılıp yıkanabilir kılıf"
+    },
+    "dimensions": "260 × 180 × 78 cm",
+    "price": "On request",
+    "images": [],
+    "featured": false,
+    "order": 2
+  },
+  {
+    "id": "modular-corner-eda",
+    "category": "couches",
+    "name": {
+      "en": "Eda Lounge Sectional",
+      "ru": "Секционный диван Eda",
+      "tr": "Eda Lounge Köşe"
+    },
+    "description": {
+      "en": "A low-slung sectional with a wide chaise — five seats, four scatter cushions. Modules can flip handed for left or right rooms.",
+      "ru": "Низкий секционный диван с широким шезлонгом — пять мест, четыре декоративные подушки. Модули перестраиваются под левую или правую комнату.",
+      "tr": "Geniş şezlonglu alçak köşe takımı — beş oturak, dört dekoratif yastık. Modüller sağa veya sola çevrilebilir."
+    },
+    "materials": {
+      "en": "Engineered hardwood frame, layered foam and fiber back, linen-weave fabric",
+      "ru": "Каркас из инженерной древесины, многослойная спинка из поролона и волокна, ткань льняного плетения",
+      "tr": "Mühendislik ahşap iskelet, sünger ve elyaf sırt, keten dokulu kumaş"
+    },
+    "dimensions": "300 × 200 × 76 cm",
+    "price": "On request",
+    "images": [],
+    "featured": true,
+    "order": 3
+  },
+  {
+    "id": "modular-corner-arin",
+    "category": "couches",
+    "name": {
+      "en": "Arın Compact Corner",
+      "ru": "Компактный угловой диван Arın",
+      "tr": "Arın Kompakt Köşe"
+    },
+    "description": {
+      "en": "A compact corner sofa for smaller rooms — same modular system, tighter footprint. Five cushions, two ottoman bases.",
+      "ru": "Компактный угловой диван для небольших помещений — та же модульная система, меньше места. Пять подушек, два пуфа-основания.",
+      "tr": "Daha küçük odalar için kompakt köşe — aynı modüler sistem, daha küçük alan. Beş yastık, iki puf taban."
+    },
+    "materials": {
+      "en": "Solid pine, layered foam, durable poly-cotton upholstery",
+      "ru": "Массив сосны, многослойный поролон, прочная поли-хлопковая обивка",
+      "tr": "Masif çam, katmanlı sünger, dayanıklı poli-pamuk kumaş"
+    },
+    "dimensions": "200 × 200 × 75 cm",
+    "price": "On request",
+    "images": [],
+    "featured": false,
+    "order": 4
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "blue-office",
+    "title": {
+      "en": "Blue Office",
+      "ru": "Blue Office",
+      "tr": "Blue Office"
+    },
+    "location": "Girne, North Cyprus",
+    "year": 2024,
+    "description": {
+      "en": "A full executive office fit-out in walnut veneer and dark stone. Custom desk, integrated wall storage with backlit niches, and a quiet meeting corner — designed and built end-to-end by the Woodist workshop.",
+      "ru": "Полная отделка кабинета руководителя: ореховый шпон и тёмный камень. Заказной стол, встроенная стенка с подсветкой ниш и тихий уголок для встреч — спроектировано и собрано мастерской Woodist под ключ.",
+      "tr": "Ceviz kaplama ve koyu taş ile tam bir yönetici ofisi düzenlemesi. Özel masa, arkadan aydınlatmalı nişli duvar depolama ve sakin bir toplantı köşesi — Woodist atölyesi tarafından uçtan uca tasarlandı ve üretildi."
+    },
+    "images": [],
+    "featured": true,
+    "order": 1
+  },
+  {
+    "id": "osyi-shop",
+    "title": {
+      "en": "Osyi Shop",
+      "ru": "Osyi Shop",
+      "tr": "Osyi Shop"
+    },
+    "location": "Girne, North Cyprus",
+    "year": 2024,
+    "description": {
+      "en": "Retail interior for the Osyi boutique — custom display millwork, a wrap-around counter, and warm timber accents that let the product take centre stage.",
+      "ru": "Интерьер бутика Osyi — заказные витрины, обвивающий прилавок и тёплые деревянные акценты, которые отдают сцену товару.",
+      "tr": "Osyi butiği için perakende iç tasarımı — özel teşhir doğraması, sarmal tezgâh ve ürünü ön plana çıkaran sıcak ahşap aksanlar."
+    },
+    "images": [],
+    "featured": true,
+    "order": 2
+  }
+]

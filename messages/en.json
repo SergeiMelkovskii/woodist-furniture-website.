@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "scroll": "Scroll",
+    "collectionsTitle": "Featured Pieces",
+    "collectionsSubtitle": "Selected works from the Woodist studio",
+    "viewAll": "View all products",
+    "aboutTitle": "Wood, with intention",
+    "aboutBody": "Woodist is a furniture studio based in Girne, North Cyprus. Every piece is built by hand from solid, responsibly sourced timber — designed to live with you for decades, not seasons.",
+    "projectsTitle": "Recent Projects",
+    "projectsSubtitle": "Custom commissions for homes, offices and hospitality spaces",
+    "viewAllProjects": "See all projects",
+    "ctaTitle": "Let's design something timeless",
+    "ctaBody": "Tell us about your space — a single piece, a full interior, or a commercial fit-out.",
+    "ctaButton": "Start a project"
+  },
+  "products": {
+    "title": "Products",
+    "subtitle": "Hand-crafted in our Çatalköy workshop",
+    "all": "All",
+    "couches": "Couches",
+    "pouffes": "Pouffes",
+    "beds": "Beds",
+    "empty": "More pieces coming soon.",
+    "materials": "Materials",
+    "dimensions": "Dimensions",
+    "price": "Price",
+    "onRequest": "On request",
+    "enquire": "Enquire about this piece",
+    "back": "Back to products"
+  },
+  "projects": {
+    "title": "Individual Projects",
+    "subtitle": "Bespoke commissions, designed and built for specific spaces",
+    "year": "Year",
+    "location": "Location",
+    "back": "Back to projects",
+    "ctaTitle": "Have a project in mind?",
+    "ctaBody": "Whether it's a single statement piece or a full interior, we'd love to hear what you're imagining. Book a call or send us the details — we'll come back with thoughts within two working days.",
+    "ctaCall": "Book a call",
+    "ctaContact": "Contact us"
+  },
+  "craft": {
+    "stepLabel": "Step"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Visit the workshop, call, or message us — whichever you prefer",
+    "address": "Address",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "email": "Email",
+    "instagram": "Instagram",
+    "hours": "Showroom",
+    "hoursValue": "Mon–Sat · 09:00–18:00",
+    "messageUs": "Message us"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "tagline": "Timeless wood design"
+  },
+  "common": {
+    "loading": "Loading…",
+    "viewProduct": "View piece",
+    "viewProject": "View project",
+    "category": "Category"
+  }
+}

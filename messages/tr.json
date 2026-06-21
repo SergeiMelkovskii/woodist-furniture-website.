@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "home": "Ana sayfa",
+    "products": "Ürünler",
+    "projects": "Projeler",
+    "contact": "İletişim"
+  },
+  "home": {
+    "scroll": "Kaydır",
+    "collectionsTitle": "Öne çıkan parçalar",
+    "collectionsSubtitle": "Woodist atölyesinden seçili çalışmalar",
+    "viewAll": "Tüm ürünler",
+    "aboutTitle": "Niyetle işlenmiş ahşap",
+    "aboutBody": "Woodist, Girne'de bulunan bir mobilya atölyesidir. Her parça, sorumlu kaynaklardan alınan masif ahşaptan elle üretilir — mevsimlik değil, on yıllar boyunca sizinle yaşamak için tasarlanmıştır.",
+    "projectsTitle": "Son projeler",
+    "projectsSubtitle": "Evler, ofisler ve ağırlama mekânları için özel siparişler",
+    "viewAllProjects": "Tüm projeler",
+    "ctaTitle": "Zamansız bir şey tasarlayalım",
+    "ctaBody": "Mekânınızı anlatın — tek parça, eksiksiz bir iç mekân ya da ticari bir proje.",
+    "ctaButton": "Projeye başla"
+  },
+  "products": {
+    "title": "Ürünler",
+    "subtitle": "Çatalköy atölyemizde el işçiliğiyle üretildi",
+    "all": "Tümü",
+    "couches": "Koltuklar",
+    "pouffes": "Puflar",
+    "beds": "Yataklar",
+    "empty": "Yakında daha fazla parça eklenecek.",
+    "materials": "Malzemeler",
+    "dimensions": "Ölçüler",
+    "price": "Fiyat",
+    "onRequest": "İstek üzerine",
+    "enquire": "Bu parça hakkında bilgi al",
+    "back": "Ürünlere dön"
+  },
+  "projects": {
+    "title": "Özel projeler",
+    "subtitle": "Belirli mekânlar için tasarlanmış ve üretilmiş özel projeler",
+    "year": "Yıl",
+    "location": "Konum",
+    "back": "Projelere dön",
+    "ctaTitle": "Aklınızda bir proje mi var?",
+    "ctaBody": "Tek bir parça da olsa, eksiksiz bir iç mekân da — neyi hayal ettiğinizi duymak isteriz. Görüşme planlayın ya da bize detayları gönderin; iki iş günü içinde dönüş yaparız.",
+    "ctaCall": "Görüşme planla",
+    "ctaContact": "Bize ulaşın"
+  },
+  "craft": {
+    "stepLabel": "Adım"
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Atölyeyi ziyaret edin, arayın ya da yazın — size en uygun olanı",
+    "address": "Adres",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "email": "E-posta",
+    "instagram": "Instagram",
+    "hours": "Showroom",
+    "hoursValue": "Pzt–Cmt · 09:00–18:00",
+    "messageUs": "Bize yazın"
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır",
+    "tagline": "Zamansız ahşap tasarım"
+  },
+  "common": {
+    "loading": "Yükleniyor…",
+    "viewProduct": "Parçaya göz at",
+    "viewProject": "Projeyi gör",
+    "category": "Kategori"
+  }
+}
