@@ -1,14 +1,8 @@
 import { getRequestConfig } from 'next-intl/server';
+import { locales, defaultLocale, type Locale } from './i18n-config';
 
-export const locales = ['en', 'ru', 'tr'] as const;
-export type Locale = (typeof locales)[number];
-export const defaultLocale: Locale = 'en';
-
-export const localeNames: Record<Locale, string> = {
-  en: 'EN',
-  ru: 'RU',
-  tr: 'TR',
-};
+export { locales, defaultLocale, localeNames } from './i18n-config';
+export type { Locale } from './i18n-config';
 
 export default getRequestConfig(async ({ requestLocale }) => {
   let locale = await requestLocale;
